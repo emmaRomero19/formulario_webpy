@@ -1,0 +1,5 @@
+cheroot==8.3.0
+jaraco.functools==2.0
+more-itertools==7.2.0
+six==1.15.0
+web.py==0.51
